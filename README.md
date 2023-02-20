@@ -3,7 +3,7 @@
 
 ### 👨‍💻 **Back-End Developer in Korea** 
 
-🌱 I’m currently learning javascript & typescript
+I’m currently learning javascript & typescript
 <p>
 
 
