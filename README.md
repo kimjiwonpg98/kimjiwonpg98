@@ -3,7 +3,8 @@
 
 ### 👨‍💻 **Back-End Developer in Korea** 
 
-I’m currently learning javascript & typescript
+I’m currently learning node & nestjs
+and kotlin & spring
 <p>
 
 
