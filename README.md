@@ -3,8 +3,7 @@
 
 ### 👨‍💻 **Back-End Developer in Korea** 
 
-I’m currently learning node & nestjs
-and kotlin & spring
+I'm primarily developing with Java, kotlin and nestJS.
 <p>
 
 
